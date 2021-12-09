@@ -1,3 +1,0 @@
-Sebastiao,4,15
-Jose,6,56
-Lucas,4,31
